@@ -1,0 +1,10 @@
+*/*.iws
+*/*.ipr
+*/*.iml
+.idea/*
+log/*
+log/**/*
+*/target/*
+*/target/**/*
+*/src/.sass-cache/*
+.DS_Store
